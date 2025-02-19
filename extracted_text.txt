@@ -1,0 +1,1451 @@
+USAID GLOBAL HEALTH SUPPLY CHAIN – 
+PROCUREMENT AND SUPPLY 
+MANAGEMENT PROJECT 
+QUARTERLY REPORT 
+YEAR 1 QUARTER 1, JANUARY 11 TO MARCH 31, 2016 
+April 30, 2016 
+DISCLAIMER 
+The authors’ views expressed in this publication do not necessarily reflect the views of the United 
+States Agency for International Development or of the United States government. 
+
+This publication was produced for review by the United States Agency for International 
+Development. It was prepared by Chemonics International Inc. under Global Health Supply 
+Chain - Procurement and Supply Management (GHSC-PSM) Contract No. AID-OAA-I-15-
+00004; Task Order 01 Contract No. AID-OAA-TO-15-00007; Task Order 02 Contract No. 
+AID-OAA-TO-15-00009; and Task Order 03 Contract No. AID-OAA-TO-15-00010. 
+Recommended citation: USAID Global Health Supply Chain – Procurement and Supply 
+Management Single Award IDIQ. 2016. USAID GHSC-PSM Quarterly Report Year 1 Quarter 1. 
+Washington, D.C.: Chemonics International Inc. 
+Chemonics Contact: 
+Anthony Savelli 
+Procurement and Supply Management Project Director 
+2345 Crystal Drive, Suite 550 
+Arlington, VA 22202 
+P 202-955-3487 | M 202-684-1479 
+asavelli@GHSC-PSM.org 
+
+............................................................................................................................. 
+.......................................................................................................................... 
+.......................................................................................................... 
+.............................................................................................. 
+.................................................................................................. 
+.................................................................................................................................................
+................................................................................................
+................................................................................................................................................
+............................................................................................. 
+.................................................................................................................................................
+................................................................................................
+............................................................................................................................................. 
+....................................... 
+.............................................................................................................................................. 
+............................................................................................. 
+............................................................................................................................................. 
+............................................................................................... 
+.............................................................................................................................................. 
+............................................................................................. 
+............................................................................................................................................. 
+............................................................. 
+.............................................................................................................................................. 
+............................................................................................. 
+............................................................................................................................................. 
+.............................................................................................. 
+.............................................................................................................................................. 
+............................................................................................. 
+............................................................................................................................................. 
+............................................................................................. 
+.............................................................................................................................................. 
+............................................................................................. 
+............................................................................................................................................. 
+CONTENTS 
+Contents
+ii 
+Acronyms
+iii 
+Executive Overview 
+1 
+Organization of the Report
+4 
+A. 
+Task Order 1 - HIV 
+5 
+1. 
+Highlights 
+5 
+2. 
+Progress Against the Transition Plan 
+6 
+3. 
+Challenges
+7 
+B. 
+Task Order 2 - Malaria
+8 
+1. 
+Highlights 
+8 
+2. 
+Progress Against the Transition Plan 
+8 
+3. 
+Challenges
+10 
+C. 
+Task Order 3 – Family Planning/Reproductive Health
+11 
+1. 
+Highlights 
+11 
+2. 
+Progress Against the Transition Plan 
+12 
+3. 
+Challenges
+13 
+D. 
+Global Supply Chain
+14 
+1. 
+Highlights 
+14 
+2. 
+Progress Against the Transition Plan 
+16 
+3. 
+Challenges
+17 
+E. 
+Country Programs Technical Assistance
+18 
+1. 
+Highlights 
+18 
+2. 
+Progress Against the Transition Plan 
+19 
+3. 
+Challenges
+20 
+F. 
+Global Collaboration
+21 
+1. 
+Highlights 
+21 
+2. 
+Progress Against the Transition Plan 
+22 
+3. 
+Challenges
+22 
+G. 
+Project Management 
+23 
+1. 
+Highlights 
+23 
+2. 
+Progress Against the Transition Plan 
+23 
+3. 
+Challenges
+24 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | ii 
+
+ACRONYMS 
+3PL 
+third-party logistics 
+4PL 
+fourth-party logistics 
+ACT 
+artemisinin-based combination therapy  
+AIDS 
+acquired immune deficiency syndrome 
+ART 
+antiretroviral treatment 
+ARV 
+antiretroviral medicine 
+BI&A 
+Business Intelligence and Analytics contract 
+CARhs 
+Coordinated Assistance for Reproductive Health Supplies (CARhs) 
+ 
+group 
+COR 
+Contracting Officer’s Representative 
+DSIP 
+demand supply inventory planning tool 
+FAR 
+federal acquisition regulations  
+FBP&A 
+freight, bill, payment and audit 
+FDA 
+U.S. Food and Drug Administration 
+FMIS 
+financial management information system 
+FP/RH 
+family planning and reproductive health 
+FY 
+fiscal year 
+GFATM 
+Global Fund to Fight AIDS, Tuberculosis and Malaria 
+GHSC 
+Global Health Supply Chain 
+HIV 
+human immunodeficiency virus  
+IAPHL 
+International Association of Public Health Logisticians  
+IDIQ 
+indefinite delivery indefinite quantity contract 
+ 
+IHS 
+Imperial Health Sciences 
+ 
+ISG 
+Inter-agency Supply Chain Group 
+ 
+ISO 
+International Organization for Standards 
+K+N 
+Kuehne+Nagel 
+ 
+KPI 
+key performance indicator 
+LLIN 
+long lasting insecticidal net 
+MDAWG  
+Market Development Approaches Working Group 
+ 
+M&E 
+monitoring and evaluation 
+MIS 
+management information system 
+ 
+MOU 
+memorandum of understanding 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | iii 
+
+OAA 
+USAID Office of Acquisition and Assistance  
+PEPFAR 
+U.S. President’s Emergency  Plan for AIDS  Relief  
+PMI 
+President’s Malaria  Initiative  
+PPMR 
+Procurement Planning and Monitoring Report 
+PSI 
+Population Services International 
+PSM 
+Procurement and Supply Management 
+ 
+PtD 
+People that Deliver 
+PVC 
+polyvinyl chloride 
+ 
+QA 
+quality assurance 
+QC 
+quality control 
+ 
+QMS 
+quality management system 
+ 
+RDC 
+regional distribution center 
+ 
+RDT 
+rapid diagnostic test 
+REOI 
+request for expressions of interest 
+ 
+RFP 
+request for proposals 
+ 
+RFQ 
+request for quotations 
+RHGTAG 
+Reproductive Health Global Advisory Traceability Group  
+ 
+RHSC 
+Reproductive Health Supplies Coalition 
+ 
+RTK 
+rapid test kits 
+ 
+SCMS 
+Supply Chain Management System  
+SOP 
+standard operating procedure  
+TO 
+task order 
+TWG 
+transition working group 
+UNAIDS 
+Joint United Nations Programme on HIV/AIDS 
+UPS 
+United Parcel Service  
+USAID  
+U.S. Agency for International Development 
+ 
+VMMC 
+voluntary medical male circumcision 
+WHO 
+World Health Organization 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | iv 
+
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | v 
+
+EXECUTIVE OVERVIEW 
+The USAID Global Health Supply Chain – Procurement and Supply Management (GHSC-PSM) 
+single award IDIQ ensures uninterrupted supply of health commodities to prevent suffering, 
+save lives, and create a brighter future for families across the globe. The IDIQ has three task 
+orders (TOs) that directly support: 
+ 
+The U.S. President’s Emergency Plan for 
+AIDS Relief (PEPFAR) – TO1 
+ 
+The President’s Malaria Initiative (PMI) – 
+TO2 
+ 
+USAID’s Office of Population and 
+Reproductive Health – TO3 
+The project provides a comprehensive array 
+of services for health commodity 
+procurement and related systems-
+strengthening technical assistance that 
+encompasses all the elements of a 
+comprehensive supply chain. Our support is 
+organized under three objectives: global 
+supply chain, country programs, and global 
+collaboration. 
+This GHSC-PSM Quarterly Report 
+summarizes the project’s activities and 
+outcomes for Year 1 Quarter 1, January 11 to 
+March 31, 2016. In this first quarter, we 
+launched the project, started the planning-
+intensive process of transitioning time-
+sensitive activities and responsibilities from 
+the incumbents, put in place the foundations 
+of our procurement and supply management 
+approach, and built our team and management 
+procedures. These are summarized below. 
+This quarter by the numbers
+2 major commodity sourcing events 
+2 important deliver/return sourcing events 
+1 RFQ issued to avoid a stockout of 
+Sayana Press 
+13 order requests received for 
+malaria products 
+20+ USAID missions expressed
+interest in buy-in 
+1 country (Mozambique) with an approved 
+transition plan 
+6 global collaboration activities 
+6 commodity councils convened 
+10 transition working groups launched 
+60% of staff positions filled 
+Project Launch 
+Effective launch of a project of this size and complexity – the largest project ever administered 
+by USAID – requires close working relations with USAID/Washington Contracting Officer’s 
+Representatives (CORs) and other technical representatives, incumbent project staff, and 
+USAID missions interested in buying in to the project. Project staff began work on December 
+23, 2105, and the project officially launched with a startup conference from January 7 to 9, 2016, 
+at which USAID and GHSC-PSM discussed the general transition approach, specified the data 
+and information required of USAID and the incumbents, and inaugurated transition working 
+groups (TWGs). 
+GHSC-PSM started building the foundation of our supply chain vision in the project’s first 
+quarter. Our Global Supply Chain group launched our Plan, Source, Deliver/Return, and Quality 
+Assurance teams. These teams are responsible for their individual functional areas, while also 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 1 
+
+working collaboratively to provide integrated, efficient support to TO procurement 
+requirements. 
+GHSC-PSM began establishing commodity councils to provide strategic management of each 
+major commodity category. To provide a wide range of expertise and perspectives, the 
+commodity councils include representatives from USAID, GHSC-PSM, and FHI360 (to represent 
+the quality assurance perspective on councils related to TOs 1 and 3). The councils analyze 
+commodity and market data, develop commodity-specific sourcing strategies, and communicate 
+with potential suppliers to inform planning 
+and sourcing. GHSC-PSM hosted a two-
+day workshop to launch the commodity 
+councils. We presented information about 
+the market dynamics, plan, source, deliver, 
+and quality assurance (QA) considerations 
+for each product group. We reached 
+agreement on priority issues, potential 
+projects, and metrics that will drive each 
+sourcing strategy and timeline. 
+GHSC -PSM Commodity Councils 
+1. 
+HIV/AIDS pharmaceuticals 
+2.
+Lab equipment and medical supplies 
+3. 
+Malaria pharmaceuticals 
+4. 
+Bed nets and malaria rapid diagnostic tests 
+5. 
+Reproductive health pharmaceuticals and devices 
+6.
+Male and female condoms 
+7.
+Essential medicines 
+8.
+Other global health commodities 
+Transition Planning 
+Collaboration with incumbents from PEPFAR’s Supply Chain Management System (SCMS) 
+project and USAID|DELIVER PROJECT began at a meeting led by USAID in late January. 
+Participants began detailed discussions of how to manage the transition, global supply chain 
+issues, transition of technical assistance, communication protocols, and transmission of data and 
+materials. GHSC-PSM has benefited greatly from the productive and collaborative relations with 
+all of these parties during the first quarter. 
+TWGs serve as the hubs of transition planning and implementation for the 10 key project 
+functions: 
+TWG 1: Senior management/operations 
+TWG 2: Finance 
+TWG 3: Monitoring and evaluations 
+TWG 4: Supply planning 
+TWG 5: Health commodity procurement
+TWG 6: Logistics 
+TWG 7: Quality assurance 
+TWG 8: MIS/data visibility 
+TWG 9: Country programs technical assistance 
+TWG 10: Global collaboration 
+TWGs benefit from significant guidance and support from the USAID CORs and other USAID 
+technical staff. SCMS and DELIVER staff participate as needed. The TWGs started working the 
+day after the kickoff meeting to develop detailed transition work plans and to spearhead 
+transition activities for their functional areas. 
+Objective 1: Global Supply Chain 
+The Global Supply Chain group completed commodity prioritization, is processing order 
+requests, and is about to place our first order. GHSC-PSM initiated major activities to source 
+four key commodities and services in our first quarter: ARVs; bednets; freight, bill, payment, and 
+audit services; and freight forwarding. In addition, we began developing an agreement with the 
+leading injectable contraceptive supplier. To minimize the risk of supply interruption during the 
+transition, GHSC-PSM is negotiating short-term agreements with Imperial Health Sciences (IHS) 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 2 
+
+and United Parcel Service (UPS) to continue to manage the stock in regional distribution centers 
+(RDCs) in Africa and in warehouses in Singapore and the Netherlands until we competitively bid 
+warehouse services and determine a new RDC strategy. 
+Our MIS team developed a detailed implementation plan and conducted blueprinting for a 
+system that combines three proven information technology solutions (IBM’s e-commerce suite, 
+Kuehne+Nagel’s fourth party logistics management information system, and Chemonics’ financial 
+information management system) into a single portal to provide comprehensive supply chain 
+data visibility. We delivered the first of four releases of the MIS. The initial release provides 
+functionality for supplier and contract management. 
+Objective 2: Country Programs 
+Throughout the quarter GHSC-PSM has been working closely with USAID missions interested 
+in buy-ins and their backstops in USAID/Washington. More than 20 USAID missions expressed 
+interest in buying in to the project. Working closely with USAID country backstops and mission 
+staff, GHSC-PSM initiated scoping missions and operational startups for all of these in Quarter 1. 
+Startup teams started visiting countries to establish relations, learn about priorities, plan to 
+transition contracts and activities, and arrange for staffing and offices. USAID facilitated “deep 
+dive” sessions with SCMS and DELIVER that provide a detailed review of a country program’s 
+technical objectives, priorities for transition, and critical dates in the transition timeline. GHSC-
+PSM has mobilized staff, established procedures, and is developing transition work plans and 
+budgets to enable us to open 17 offices this fiscal year. 
+Objective 3: Global Collaboration 
+GHSC-PSM began establishing working relationships with actors in the global health community, 
+among other things by starting to participate in technical committees and conferences. We 
+worked to better understand USAID's market dynamics priorities and to tailor plans for market 
+dynamics work to the needs of each TO. We conducted formative research to understand 
+USAID and GHSC-PSM project leadership’s vision of the GHSC-PSM website and the project’s 
+global collaboration and communications role. 
+Project Management 
+Project leadership built strong working relations and communications channels with USAID. We 
+also established a productive working relationship with SCMS and DELIVER staff. GHSC-PSM 
+put in place financial management and reporting systems, established regular internal 
+management meetings and processes, and prioritized recruitment to fill key staffing positions. By 
+the end of the quarter, 60 percent of positions on the project team were filled (106 out of 176 
+positions). Ninety three (93) individuals had started by March 31, and 13 others had accepted 
+offers. 
+The Monitoring and Evaluation (M&E) team worked closely with the USAID M&E specialists to 
+develop key performance indicators (KPIs) and submitted the first draft of the M&E plan. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 3 
+
+ORGANIZATION OF THE REPORT 
+The report is organized as follows: 
+ 
+Section A: TO1 – HIV 
+ 
+Section B: TO2 – Malaria 
+ 
+Section C: TO3 – Family Planning/Reproductive Health 
+ 
+Section D: Objective 1 – Global Supply Chain 
+ 
+Section E: Objective 2 – Country Programs Technical Assistance 
+ 
+Section F: Objective 3 – Global Collaboration 
+ 
+Section G: Project Management 
+In each section, we highlight significant achievements; describe progress against each activity and 
+milestone scheduled for the reporting period; and discuss challenges, risks, and proposed 
+solutions. 
+In future quarterly reports, we will provide annexes that report and provide analyses of 
+performance by KPI. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 4 
+
+A. TASK ORDER 1 - HIV 
+1. 
+HIGHLIGHTS 
+Commodity councils. GHSC-PSM launched two of the commodity councils that will support TO1: 
+(1) Commodity Council 1 for HIV-related pharmaceuticals, primarily antiretroviral medicines 
+(ARVs); and (2) Commodity Council 2 for laboratory equipment and medical supplies, including 
+voluntary medical male circumcision (VMMC) kits and related commodities. Commodity Council 
+7 on essential medicines, to be launched next quarter, also will be important for TO1 because 
+co-trimoxazole (used to prevent several opportunistic infections) is procured in large quantities 
+by countries with large numbers of people on antiretroviral treatment (ART). 
+Transition. To accelerate progress on TO1, we convened several groups critical to the transition 
+from SCMS to GHSC-PSM. 
+GHSC-PSM global supply chain and country program teams working on TO1 started meeting in 
+March to ensure cross-functional coordination and to align plan, source, deliver, and systems 
+strengthening functions centrally and for in-country programs. Participants discussed the 
+transition status of forecasting, contracts, warehouse contracts, network design optimization, 
+and the data needed by GHSC-PSM from SCMS. The TO1 internal supply chain meetings are 
+held on a monthly basis. 
+We are holding integrated supply chain meetings with USAID and SCMS. These focus on the 
+transition of procurement responsibilities from SCMS to GHSC-PSM, our laboratory strategy, 
+and VMMC procurement. 
+To ensure an enhanced laboratory strategy under GHSC-PSM, we also initiated weekly 
+laboratory meetings that bring together the relevant USAID COR, the USAID laboratory leads, 
+and relevant GHSC-PSM staff. 
+A smooth transition of stock into and order placement from RDCs is key to avoiding stockout 
+of ARVs during and immediately after the transition. To this end, SCMS placed the warehouse 
+restocking order for ARVs this quarter and GHSC-PSM will place the order next quarter. The 
+GHSC-PSM Plan and Source teams reviewed the RDC replenishment plans in detail with SCMS 
+to prepare for the transition. 
+Staffing. We are recruiting a laboratory director, a VMMC director, and two managers to 
+support each. These positions will support our laboratory and VMMC work for procurement, 
+country systems strengthening, and global collaboration. Also, we are hiring a process chemist 
+with in-depth knowledge of the processes and market influences on ARV production and supply 
+to support the procurement and market dynamics aspects of ARV procurement. 
+Preparedness. GHSC-PSM is prepared to place one-off and emergency orders in response to 
+requests. At the same time, we are preparing for ongoing responsibilities. In March, GHSC-PSM 
+released the first request for quotations (RFQ) for short/mid-term ARV framework contracts. 
+GHSC-PSM met with the GHSC-Rapid Test Kits (RTK) contractor, Remote Medical 
+International, to discuss how the two projects would collaborate and to start developing a 
+memorandum of understanding (MOU) to document this collaboration. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 5 
+
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 1 lists the activities and milestones planned for this TO this quarter, summarizes 
+progress, and indicates the status of planned activities. 
+EXHIBIT 1. TO1 PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Be prepared to process one-off and emergency order requests. As of February, 
+GHSC-PSM was prepared to process one-off and emergency order requests. TO1 did 
+not receive requests for such orders. 
+Complete 
+Launch Commodity Council 1 (HIV/AIDS Pharmaceuticals) and Commodity 
+Council 2 (Lab Equipment and Supplies, VMMC Kits, and Related Commodities). 
+GHSC-PSM launched both of these commodity councils. 
+Complete 
+Participate in the WHO/UNAIDS Global Forecasting meeting for pharmaceuticals 
+and diagnostics in Geneva. GHSC-PSM staff participated in this meeting in Geneva 
+March 8 to 11. Following plenary discussions and presentations, the GHSC-PSM team 
+met with the major pharmaceutical and diagnostic suppliers in individual meetings, 
+with USAID and SCMS representatives present. 
+Complete 
+Execute,  with USAID OAA approval, transitional framework agreements  with key  
+commodity suppliers.  GHSC-PSM made progress in  developing transitional  
+framework agreements with key commodity suppliers:  
+ ARVs. We released an RFQ for short/mid-term  agreements  for ARVs, and began  
+reviewing quotations  at the end of the reporting period.  
+ VMMC kits.  We  prepared  an RFQ for framework  agreements  for VMMC kits. This  
+will  be published once the product specifications  are  confirmed by USAID.  
+On track 
+Obtain/review TO1 ARV supply plans. SCMS countries have submitted their 
+Quarter 1 ARV supply plans to the SCMS home office. The SCMS home office has 
+reviewed the RDC replenishment plans in detail with the GHSC-PSM Plan and Source 
+teams. 
+Complete 
+Review weekly open order updates from SCMS. GHSC-PSM has been receiving 
+data requested from SCMS. The next step, to occur in the third week in April, is for 
+GHSC-PSM and SCMS to jointly review open orders, by country, for each TO1 
+commodity. (See challenge #1 below.) 
+Ongoing 
+Transfer  in-country technical assistance  from SCMS to GHSC-PSM (3 months  
+prior to SCMS program end). Transition planning  to transfer technical  assistance  is  
+underway or soon to  begin  in 16  countries  that will buy in for TO1 under the GHSC-
+PSM project. Teams are working in the  field, debriefing the home  office, and  
+developing work plans to establish transition offices through  September 2016. The  
+transition work plans  and  budgets will  cover the transition of procurements, plans  to  
+deliver  goods procured under SCMS but received by GHSC-PSM, and hiring 
+incumbent and new staff to lead the work.  
+The countries buying in to TO1  are: Botswana, Burma, Burundi, Ethiopia, Ghana,  
+Haiti, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Rwanda, Uganda, Vietnam,
+Zambia, and Zimbabwe.  
+On track 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 6 
+
+PLAN AND PROGRESS 
+STATUS 
+Hold TO1 integrated supply  chain  meetings  with GHSC-PSM, USAID, and SCMS.
+GHSC-PSM hosted integrated supply chain  meetings this quarter on the following  
+dates and topics:  
+February 16: Discussion  of ARV RDC and direct drop transition strategy
+February 25: Discussion  of transition  strategy for laboratory  systems  strengthening
+and procurement  
+March 1: SCMS presentation  on demand planning  to procurement process for 
+generic ARVs, ARV demand planning through procurement and client order 
+process, and ARV restocking  order tender evaluation process  
+March 15: Demonstration of  country-level  quantification and  analysis of lab  
+equipment and commodity needs  and  utilization, featuring a  demonstration of the  
+ForLab software  
+March 23:  Demonstrations of Quantimed  and PipeLine quantification  software  
+March 31: Discussion of VMMC transition strategy for sourcing, warehousing, and  
+demand planning  
+Ongoing 
+Hold TO1 internal supply chain meetings. GHSC-PSM held one TO1 internal 
+supply chain meeting with the TWG leads and key stakeholders. Participants 
+discussed the transition status of forecasting, commodity contracts, warehouse 
+contracts, network design optimization, and the data needed by GHSC-PSM from 
+SCMS. 
+Ongoing 
+Hold PSM lab strategy meetings with USAID. We initiated weekly lab meetings with 
+the USAID CORs and laboratory leads and relevant GHSC-PSM leadership. 
+Ongoing 
+Document the GHSC-QA contractor’s QA responsibilities for TO1 commodities. 
+We drafted and shared with the contractor, FHI360, an MOU. FHI360 has not signed 
+and returned the MOU. 
+On track 
+3. 
+CHALLENGES 
+Challenge #1 – Data transfer. Timely and complete data transfer from SCMS to GHSC-PSM was 
+a challenge for part of the quarter. Examples of data requirements include standard operating 
+procedures (SOPs), contract details, and open orders in each country. Delays in transfer and 
+lack of compete data posed a risk for procurement and delivery of key product groups. GHSC-
+PSM responded to procurement and delivery risks by using country data gathered by the startup 
+teams and by integrating our procurement and delivery responses into the transition plans for 
+specific countries. We continued to clarify the data needed and to set up meetings with SCMS 
+to access the data with enough lead time to mitigate any risks related to procurement and 
+delivery. By the end of the quarter, the data issues largely were resolved. 
+Challenge #2 – Responding to new WHO guidelines. Countries will need to make adjustments in 
+their supply chain components as they adopt the new WHO guidelines and the mandate to “test 
+and start.” This will require changes such as providing multi-month prescriptions to patients and 
+using viral load to monitor patients on ART. Country offices will need to keep pace with 
+adoption and possibly adjust variables such as warehouse space, depending on modeling 
+exercises being undertaken now, in addition to transitioning out CD4 equipment and procuring 
+viral load instruments. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 7 
+
+B. TASK ORDER 2 - MALARIA 
+1. 
+HIGHLIGHTS 
+Commodity councils. GHSC-PSM launched two commodity councils to support the sourcing of 
+commodities for TO2. Commodity Council 3 will focus on all malaria pharmaceuticals, including 
+artemisinin-based combination therapies (ACTs) and medicines for the treatment of severe 
+malaria. Commodity Council 4 will focus on long-lasting insecticide treated nets (LLINs) and 
+malaria rapid diagnostic test kits (RDTs). The key outputs of the initial commodity council 
+meetings were the draft GHSC-PSM sourcing strategies for the TO2 commodities. 
+Transition. The project assumed responsibility for all malaria commodity procurement requests 
+starting February 16. To support this process, GHSC-PSM established a dedicated email address 
+(psmmalariaorders@ghsc-psm.org) for the submission of all order requests, reviewed and 
+proposed updates to the procurement requisition forms, and developed a manual procurement 
+process. We received 13 order requests for malaria commodities and started processing them. 
+As of March 22, GHSC-PSM prepared and submitted to USAID a weekly Malaria Procurement 
+Table that provides an update on the status of all orders submitted for malaria commodities. 
+The first monthly Integrated Supply Chain Meeting between the USAID PMI and GHSC-PSM 
+supply chain teams took place March 22. Participants discussed the strategic vision for sourcing 
+of main product categories, including viewing a presentation on the sourcing mapping process 
+and ongoing order management; the transition of procurements to GHSC-PSM; and the 
+strategies and process for engaging USAID missions and suppliers. 
+Quality assurance. GHSC-PSM is on track with developing a quality assurance and quality control 
+(QA/QC) plan and policy for TO2. We reviewed the existing QA/QC SOPs, sent questions 
+about the SOPs to USAID and FHI360, and plan to meet to finalize the review in April. GHSC-
+PSM is preparing a request for expressions of interest (REOI) to pre-qualify laboratories for 
+future requests for proposals (RFPs) for QC testing of malaria commodities. 
+Preparedness. GHSC-PSM responded to emergency requests from the PMI team to support the 
+distribution of LLINs in Burundi, Mali, and Uganda. In Mali, it was determined that alternative 
+funding to support the activities was available through the Global Fund to Fight AIDS, 
+Tuberculosis and Malaria (GFATM), and no immediate action from GHSC-PSM was required. 
+GHSC-PSM negotiated contracts with Population Services International (PSI) in Burundi and 
+with the Joint Medical Stores in Uganda to ensure that distribution of LLINs will continue during 
+the transition period. 
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 2 lists the activities and milestones planned for this TO this quarter, summarizes 
+progress, and indicates the status of planned activities. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 8 
+
+EXHIBIT 2. TO2 PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Be prepared to process one-off and emergency order requests. As of February, 
+GHSC-PSM was prepared to process one-off and emergency orders. We developed a 
+manual procurement process to support these order requests while awaiting 
+completion of the MIS. 
+Complete 
+Assume all malaria commodity procurement requests. GHSC-PSM has assumed 
+responsibility for procurement of all malaria commodities. We received and began 
+processing 13 requests for malaria commodities. 
+Complete 
+Establish malaria order request email address. In February, GHSC-PSM 
+established a dedicated email address that will be used by USAID missions to place 
+their procurement orders. 
+Complete 
+Execute, with USAID/OAA approval, transitional framework agreements with key 
+commodity suppliers. GHSC-PSM did not assume DELIVER’s framework 
+agreements with suppliers of malaria commodities. Rather, we are managing one-off 
+procurements of malaria commodities while we develop our own long-term framework 
+agreements with suppliers. (See challenge #1 below.) 
+On track 
+Send interim PSM Order Request Forms to PMI. GHSC-PSM reviewed and 
+updated the order requisition forms that USAID missions will use to place future orders 
+with GHSC-PSM. We submitted the updated order requisition forms to USAID for its 
+review. 
+Complete 
+Issue REOI for LLINs. GHSC-PSM issued an REOI for framework agreements for 
+LLINs. We completed the initial technical evaluation of the responses to the REOI and 
+submitted the LLIN net samples for QC testing. 
+Complete 
+Review and clarify TO2 SOPs with USAID and FHI360. GHSC-PSM received and 
+reviewed FHI360’s QA SOPs for malaria products and submitted questions to FHI360 
+and USAID about them. 
+Complete 
+Receive QA/QC-related SOPs from IDA, PSI, and K+N. GHSC-PSM is leveraging 
+the expertise of staff from IDA, PSI, and K+N in developing GHSC-PSM QA/QC-
+related SOPs. 
+Complete 
+Contact labs for TO2 to check possibility of taking over contract. GHSC-PSM 
+received the list of labs that tested malaria commodities under the previous contract. 
+We contacted these labs to determine their interest in responding to GHSC-PSM 
+RFPs for similar services. 
+On track 
+Issue REOI followed by RFP to labs for TO2. We started developing the REOI for 
+TO2 labs that will be released next quarter. 
+On track 
+Get TO2 lab contracts in place. We took steps to start working with the existing pre-
+qualified labs to ensure QA support is available as soon as needed. We also took 
+preliminary steps (the lab REOI) towards contracting labs for ongoing QA support. 
+On track 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 9 
+
+PLAN AND PROGRESS 
+STATUS 
+Transfer in-country technical assistance from DELIVER to GHSC-PSM (3 months 
+prior to DELIVER technical assistance program end).  Transition planning for this 
+process is under way or soon to commence in 11 countries that will buy in for TO2 
+under the GHSC-PSM project. Teams are working in the field, debriefing the home 
+office, and developing work plans to establish transition offices. The transition work 
+plans and budgets will cover the transition of procurements, delivery of goods 
+procured under DELIVER but received by GHSC-PSM, and the hiring of incumbent 
+and new staff to lead the work. 
+The countries buying in to TO2 as of the end of Quarter 1 were: Burma, Burundi, 
+Ghana, Liberia, Madagascar, Malawi, Mozambique, Nigeria, Rwanda, Zambia, and 
+Zimbabwe. 
+On track 
+3. 
+CHALLENGES
+Challenge #1 – ACT order to avoid stockouts. Novartis, an ACT supplier, is considering shutting 
+down production if no orders are received shortly, creating a risk that the project would not be 
+able to supply upcoming ACT (ALu) orders. To mitigate the risk of losing this production 
+capacity, GHSC-PSM will place several orders for monthly deliveries between Oct 2016 and 
+March 2017. Long-term agreements between GHSC-PSM and ACT manufacturers will be in 
+place by that time to ensure continuous supply. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 10 
+
+C. TASK ORDER 3 – FAMILY 
+PLANNING/REPRODUCTIVE HEALTH 
+1. 
+HIGHLIGHTS 
+Commodity councils. We launched Commodity Council 5 for reproductive health pharmaceuticals 
+and Commodity Council 6 for condoms and lubricants. At commodity council meetings, we 
+discussed the composition and purpose of the commodity councils, outlined the sourcing 
+strategy for TO3, and defined key considerations for sourcing. 
+Transition. GHSC-PSM developed a process and coordinated with DELIVER on how to address 
+open orders and the delivery of family planning/reproductive health (FP/RH) commodities. We 
+reviewed and provided input to a service level agreement between GHSC-PSM and the 
+incumbent to clarify roles and responsibilities of each party in the procurement process. 
+Specifically, during the transition period, all orders will be submitted through My Commodities1 
+and DELIVER will share updates on new orders each week. GHSC-PSM and DELIVER will 
+determine roles for new orders according to three scenarios: (1) DELIVER procures and ships 
+the commodities; (2) DELIVER procures and GHSC-PSM ships; or (3) GHSC-PSM procures and 
+ships. Given the estimated production lead times and ship dates for the items that GHSC-PSM 
+will procure and ship, the project is prioritizing contracts with suppliers of lubricants, female 
+condoms, and male condoms. GHSC-PSM has 66 orders in process under TO3. 
+There are a number of registration challenges with FP/RH commodities in some countries. The 
+extended registration timeline and low sales volumes in some countries reduce suppliers’ 
+interest in investing the time and money to register their products there. USAID convenes a 
+Registration Task Force to monitor registration issues, facilitate the registration process, and 
+enhance coordination on these issues among funders and global partners. GHSC-PSM has 
+designated points of contact to participate in the Registration Task Force meetings. 
+Regarding logistics, USAID, DELIVER, and GHSC-PSM held discussions about transitioning 
+warehouse responsibilities and transferring inventory of FP/RH commodities in the warehouses 
+in the Netherlands and Singapore. We still are finalizing the transfer process and timeline. 
+Staffing. The finance manager, the supplier relations manager, and several buyers joined the 
+team. The procurement and logistics manager and the global collaboration manager should be 
+on board by the middle of next quarter, at which point TO3 will be fully staffed. 
+Preparedness. Project staff drafted an RFQ for Sayana Press injectables for Pfizer to secure 
+product in anticipation of a possible shutdown of the production line. We also sent an RFQ to 
+WHO pre-qualified suppliers for two orders of Panther specialty male condoms requested for 
+Zimbabwe. 
+We are in the process of drafting RFQs for oral contraceptives, male condoms, female 
+condoms, and lubricants. We have worked with FHI360 to obtain current specifications for the 
+products. Our Risk Management team has been carefully reviewing the terms and conditions of 
+all sourcing activities. 
+1 My Commodities is the DELIVER project’s online platform for managing and reporting on all orders. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 11 
+
+Core work plan. Throughout the quarter, GHSC-PSM worked very collegially with USAID to 
+develop the work plan for TO3 core activities through fiscal year (FY) 2016 and for FY 2017. 
+Core activities starting in FY 2016 include: (1) transition to GHSC-PSM the Procurement 
+Planning and Monitoring Reports (PPMRs) and the Coordinated Assistance for Reproductive 
+Health Supplies (CARhs) group to identify and plan responses to stockout risks; (2) find ways to 
+better engage the commercial sector; and (3) provide training to USAID staff on supply chain 
+management and contraceptive security. 
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 3 lists the activities and milestones planned for this TO this quarter, summarizes 
+progress, and indicates the status of planned activities. 
+EXHIBIT 3. TO3 PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Be prepared to process one-off and emergency order requests. As of February, 
+GHSC-PSM was prepared to process one-off and emergency order requests. There 
+were no such orders for TO3. 
+Complete 
+Execute, with USAID/OAA approval, transitional framework agreements with key 
+commodity suppliers. We are reaching agreement with Pfizer on Sayana Press, and 
+are developing several RFQs in preparation for sourcing. 
+On track 
+Place the urgent, high priority Sayana Press order. GHSC-PSM drafted the RFQ 
+for Sayana Press and sent the draft to USAID for review. (See challenge #1 below.) 
+On track 
+Request TO3 SOPs from USAID and FHI360, and document roles and 
+responsibilities of USAID/FHI360/PSM under TO3 in an MOU. We started 
+coordinating with FHI360 counterparts about QA for TO3. We documented roles and 
+responsibilities in an MOU that has been sent to FHI360 and awaits its signature. 
+FHI360 cannot provide its SOPs until the MOU has been executed. 
+On track 
+Request/receive list of USAID pre-approved health commodities for TO3. GHSC-
+PSM now has the lists of U.S. Food and Drug Administration (FDA)- and WHO-
+approved commodities. There are issues with packaging of some commodities that 
+may impact registration in some countries. (See challenge #2 below.) 
+Complete 
+Establish process to receive weekly data updates from DELIVER (for TO3). 
+GHSC-PSM and DELIVER established a process for receiving and discussing bi-
+weekly open orders and inventory snapshot data updates. 
+Complete 
+Transfer in-country technical assistance from DELIVER to GHSC-PSM (3 months
+prior to DELIVER technical assistance program end). Transition planning for this 
+process is under way or soon to commence in 12 countries that will buy in for TO3. 
+Teams are working in the field, debriefing the home office, and developing work plans 
+to establish transition offices. The transition work plans and budgets will cover the 
+transition of procurements, delivery of goods procured under DELIVER but received 
+by GHSC-PSM, and the hiring of incumbent and new staff to lead the work. 
+The countries buying in to TO3 were: Ethiopia, Ghana, Haiti, Liberia, Madagascar, 
+Malawi, Mozambique, Nepal, Nigeria, Pakistan, Rwanda, and Zambia. 
+On track 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 12 
+
+PLAN AND PROGRESS 
+STATUS 
+Develop a work plan for core-funded activities. The TO3 team worked with USAID 
+to understand priorities for core-funded activities and started developing a draft work 
+plan and budget for these activities. The work plan and budget will be submitted early 
+in Quarter 2. 
+On track 
+Start procurements for each commodity category. Sourcing activities were started 
+for all commodity categories. Sourcing events for Sayana Press and Panther male 
+condoms are imminent. 
+On track 
+3. 
+CHALLENGES 
+Challenge #1 – Sayana Press. Pfizer has warned of a possible shut down of the Sayana Press 
+production line. This creates a risk of stockouts of this contraceptive. To avoid stockouts, 
+USAID instructed GHSC-PSM to issue an RFQ for 1 and 2 million units. GHSC-PSM has 
+submitted the draft RFQ to USAID and we will release the RFQ to Pfizer early next quarter. 
+Challenge #2 – Registration issues due to packaging. There are registration issues in some countries 
+for Bayer’s Microgynon and Combination 3 oral contraceptives due to the transition of 
+packaging from polyvinyl chloride (PVC) to ACLAR. GHSC-PSM will continue to engage with 
+USAID on this issue. GHSC-PSM conducted a first meeting with Bayer to anticipate any 
+potential shortages due to the packaging transition and has scheduled subsequent meetings to 
+avoid stockouts. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 13 
+
+D. GLOBAL SUPPLY CHAIN 
+The Global Supply Chain team works as an integrated group of functional teams – Plan, Source, 
+Deliver/Return, and QA. Additionally GHSC-PSM is developing an MIS that provides end-to-end 
+visibility of global supply chain data. Along with managing global supply chain activities for the 
+TOs (as summarized in Sections A – C of this report), these teams create the processes, 
+procedures, and infrastructure that support supply chain activities across the project. In this 
+section we summarize the cross-cutting supply chain support activities of the Global Supply 
+Chain and MIS teams. 
+1. 
+HIGHLIGHTS 
+Cross-cutting 
+GHSC-PSM organized TWGs to ensure that information is exchanged and functions are quickly 
+transferred from SCMS and DELIVER to GHSC-PSM. A GHSC-PSM functional team leader leads 
+each TWG. The TWGs include representatives from USAID (by task order) and from SCMS 
+and DELIVER, as needed. The TWGs developed and are implementing detailed transition plans. 
+They are meeting weekly during the transition period or until their goals are met. 
+We organized five TWGs under the supply chain function: TWG4 – Supply Planning; TWG5 – 
+Health Commodity Procurement; TWG6 – Logistics; TWG7 – Quality Assurance; and TWG8 – 
+MIS/Data Visibility. The TWGs meet regularly on an individual basis and collectively in TO 
+integrated supply chain meetings. 
+Our work builds off the data, contracts, and procedures established under SCMS and DELIVER. 
+On January 15, we requested background data and material from the incumbents. Through the 
+TWGs and other interactions, we are working closely and collaboratively with SCMS and 
+DELIVER leadership and staff to plan and 
+implement a smooth transition. 
+Another cross-cutting activity was 
+launching six of the eight proposed 
+commodity councils, as mentioned in 
+Sections A – C above. Members of all of 
+the Global Supply Chain teams participate 
+in these commodity councils. 
+Six of eight commodity councils convened 
+1.
+HIV/AIDS pharmaceuticals 
+2. Lab equipment and medical supplies 
+3.
+Malaria pharmaceuticals 
+4.
+Bed nets and malaria rapid diagnostic tests 
+5.
+Reproductive health pharmaceuticals and devices 
+6. Male and female condoms 
+7. Essential medicines
+8.
+Other global health commodities 
+Plan 
+GHSC-PSM made significant progress in determining how and when to transition commodity 
+procurements and inventory from SCMS and DELIVER to GHSC-PSM. We developed several 
+tools and models that will be used to support planning. We established regular data exchanges 
+with the incumbents and worked with the MIS team to plan how to make project MIS data 
+available to support the Plan team’s work. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 14 
+
+Source
+GHSC-PSM submitted draft strategic sourcing strategies for six commodity councils that focus 
+on key commodities to be procured by the project. We updated analysis of the top 20 suppliers 
+by commodity group, and ascertained the federal acquisition regulations (FAR) implications of 
+developing sole-source contracts with current suppliers. 
+GHSC-PSM developed an end-to-end sourcing and procurement process in order to start 
+processing one-off and emergency request orders for all TOs. 
+Our team managed two major sourcing events: an REOI for LLINs and an RFP for ARVs. The 
+Source team also worked on a number of other solicitations for the TOs as detailed in Sections 
+A – C above. 
+GHSC-PSM developed a supplier database with an initial list of more than 100 suppliers. Our 
+Source team started meeting individually with many suppliers, including at the joint 
+WHO/UNAIDS meeting for HIV/AIDS pharmaceuticals and diagnostics. 
+Deliver/Return 
+GHSC-PSM managed two important deliver/return sourcing events: an RFP for freight, bill, 
+payment and audit (FBP&A) services and an RFP for freight forwarding/third party logistics (3PL). 
+The team also made significant progress in addressing warehousing needs. This included drafting 
+solicitations, communicating with potential offerors, and initiating price analyses and negotiations 
+for RDC/warehouse providers. 
+Quality Assurance 
+GHSC-PSM drafted the QA Plan and Policy. We worked with USAID and the GHSC-QA 
+contractor FHI360 to understand the QA contractor’s role and responsibilities for QA for TOs 
+1 and 3. We documented how we would interact with the QA contractor on TOs 1 and 3 in an 
+MOU. We obtained QA SOPs for TO2 (for which GHSC-PSM is now responsible) and started 
+to adapt these. On the basis of this interchange of information and our QA Plan and Policy, our 
+QA team is starting to document work instructions, procedures, and policies. 
+MIS/Data Visibility 
+The MIS team worked with project counterparts to develop MIS functional requirement 
+blueprints. In particular, the MIS team worked with the Plan, Source, and Deliver/Return teams 
+to develop blueprinting specifications including for Emptoris, the online catalog, order 
+management, the K+N system interface, financial reporting, and dashboards/analytics. Plans for 
+development of the MIS were revised to reflect four releases over 18 months, with initial 
+operating capability available by May 16, 2016. 
+The MIS team had a number of meetings with the Business Intelligence and Analytics (BI&A) 
+contractor, Intellicog, to review InfoSpec and ensure that our MIS will be able to satisfy InfoSpec 
+data requirements. A specific focus is the product catalog, which GHSC-PSM will assume in the 
+future. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 15 
+
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 4 lists the planned activities and milestones scheduled in the TO transition plan for this 
+quarter, summarizes progress, and indicates the status of planned activities. 
+EXHIBIT 4. GLOBAL SUPPLY CHAIN PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Release interim forecast tool. The Plan team developed initial models for central 
+forecasting and reviewed these with the FP/RH planning leads. 
+Complete 
+Finalize initial modeling scope. The Plan team developed the initial scope for the 
+network optimization model. It also conducted weekly review sessions with USAID to 
+move towards a new network optimization design. 
+Complete 
+Finalize data and model design. The Plan team defined all data required to perform 
+the network optimization model and collected data to perform the analysis. 
+Complete 
+Create initial modeling scenario. The Plan team started developing scenarios for 
+review. The team plans to present its initial recommendations in late April. 
+Complete 
+Establish interim process to receive data updates from the GHSC-PSM MIS 
+team. The Plan team developed an interim plan to receive data updates in order to 
+plan replenishment orders for the RDCs for June/July. 
+Complete 
+Develop strategic sourcing strategies. The Source team developed draft strategic 
+sourcing strategies for the six priority commodity councils. These include an analysis 
+of the top 20 suppliers by commodity group. 
+Complete 
+Develop sourcing and procurement process. To be prepared to process orders in 
+Quarter 1, the Source team developed a manual end-to-end sourcing and 
+procurement process. 
+Complete 
+Contact suppliers. The Source team developed a supplier database and has 
+populated it with information on more than 100 suppliers. Team members are 
+systematically approaching suppliers in the database to introduce GHSC-PSM. 
+Complete 
+Release tender for FBP&A. The Deliver/Return team released a tender for FBP&A 
+services and is vetting and analyzing the responses received from offerors. 
+Complete 
+Establish initial warehouse capability with current service providers. The 
+Deliver/Return team began negotiations with the incumbents’ existing RDCs in Africa 
+and the warehouse depots in Singapore and the Netherlands. 
+On target 
+Sign contract with incumbent warehouse provider IHS. With rate information 
+provided by IHS, the Deliver/Return team used cost analysis, scenarios based on 
+provided invoices and rates, and market rates to analyze the cost structure of the 
+current agreement for the RDCs. This is informing the contract for IHS that GHSC-
+PSM is drafting to continue these services for the short term. 
+On target 
+Issue RFQ for 3PL provider. GHSC-PSM introduced ourselves to 3PL providers and 
+prepared them for a scheduled solicitation for freight forwarding. The Deliver/Return 
+team developed and signed non-disclosure agreements with providers that is 
+appropriate for our fourth party logistics (4PL) model to assuage their concerns about 
+sharing pricing information within GHSC-PSM (given that our consortium includes a 
+competitor, K+N). 
+Complete 
+Sign contract with incumbent warehouse provider United Parcel Service (UPS). 
+The Deliver/Return team began negotiations with UPS regarding its warehouse depots 
+in Singapore and the Netherlands. 
+On target 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 16 
+
+PLAN AND PROGRESS 
+STATUS 
+Develop QA plan and policy. The QA team drafted a malaria QA plan and policy that 
+is being reviewed internally and will be finalized in collaboration with USAID next 
+quarter. GHSC-PSM’s overarching quality management system (QMS) is under 
+development. 
+On target 
+Obtain QA/QC-related SOPs from IDA, Population Services International, and 
+K+N. GHSC-PSM is leveraging the expertise of staff from IDA, PSI, and K+N in 
+developing our SOPs. 
+Complete 
+Finalize the MIS development schedule. We worked with USAID to review the 
+scope of the MIS and revise the implementation schedule to include four releases 
+instead of three. Release 4 will identify optional functionality to improve overall 
+efficiencies and will be evaluated before engaging in these activities. (See challenge 
+#1 below.) 
+Complete 
+Develop approach for Chemonics’ FMIS to support GHSC-PSM financial 
+reporting requirements. The MIS team developed an approach to add two attributes 
+to Chemonics’ financial management information system (FMIS) modules. A 
+combination of billing codes and the two additional attributes will support financial 
+reporting that meets USAID’s requirements. 
+Complete 
+Release MIS Version 0, supplier and contract management (Emptoris). The MIS 
+team delivered the MIS release 0, which includes functionality in Emptoris for supplier 
+and contract management, on time. We uploaded key supplier data into Emptoris and 
+trained users on the system. 
+Complete 
+Prepare micro design for 0.6 MIS release to support warehousing. The MIS team 
+completed the design work to implement basic order and warehouse capabilities for 
+release 0.6. 
+Complete 
+Determine MIS functional requirements. The MIS team conducted blueprinting to 
+document MIS functional requirements. Blueprinting will continue into May, at which 
+point USAID and the team will sign off on the MIS requirements. 
+On target 
+3. 
+CHALLENGES 
+Challenge #1 – MIS functionality in early releases. Developing an MIS that provides all the data and 
+functionality expected by the GHSC-PSM team and USAID is a significant challenge. The main 
+risk is having overly ambitious expectations for early releases. During blueprinting, some 
+requirements are being shifted forward, and the MIS team will have to assess the impact of this. 
+It may be necessary to make tradeoffs in terms of delivering functionality. If needed, these will 
+be discussed with USAID. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 17 
+
+E. COUNTRY PROGRAMS 
+TECHNICAL ASSISTANCE 
+1. 
+HIGHLIGHTS 
+Transition planning. At a transition meeting hosted by USAID, the GHSC-PSM Country Programs 
+team started coordinating with the SCMS and DELIVER teams on transitioning country 
+programs. Subsequently, SCMS and DELIVER provided a high-level overview of their programs, 
+and are providing detailed information on operations and technical activities for each of the 20 
+countries interested in a GHSC-PSM buy-in. 
+GHSC-PSM formed the Country Programs Technical Assistance TWG (TWG9) to spearhead 
+transition planning for country programs. We submitted a GHSC-PSM country transition plan 
+that outlines how we prepare to transition each country program, the country buy-in process, 
+and how we handle technical scoping and operational startup. The TWG9 leader coordinates 
+weekly with USAID counterparts for each TO to identify transition needs, country priorities, 
+and opportunities for improvement in communications and handover. 
+GHSC-PSM regional managers worked very closely with USAID country backstop teams and 
+with mission staff to understand country requirements and to plan scoping visits. Based on this 
+information, we formed startup teams comprising operational specialists and technical 
+specialists, as needed. SCMS or DELIVER staff also participate in scoping visits for programs 
+transitioning from their projects to GHSC-PSM. Exhibit 5 lists the teams deployed for startup 
+visits this quarter. 
+EXHIBIT 5. STARTUP TEAMS DEPLOYED 
+COUNTRY 
+TEAM LEAD 
+TEAM MEMBERS 
+ARRIVAL 
+Burma 
+Shaun O’Neil 
+TO3 Systems Strengthening Manager 
+Operations Team Lead 
+3/28/2016 
+Ghana 
+Mark Morris 
+Regional Programs Manager 
+Operations Team Lead 
+Recruitment Specialist 
+3/29/2016 
+Madagascar 
+Grace Adeya 
+TO2 Systems Strengthening Manager 
+Senior Contracts Specialist 
+Operations Team Lead 
+Operations Specialist 
+Recruitment Specialist 
+3/21/2016 
+Malawi 
+Shane McGee 
+Regional Programs Manager 
+Warehouse Specialist 
+Subcontracts Specialist 
+Operations Team Lead 
+Operations Specialist 
+Recruitment Specialist 
+3/29/2016 
+Mozambique 
+Doris Youngs 
+Country Programs Manager 
+Operations Team Lead 
+Recruitment Specialist 
+Procurement Specialist 
+Contracts & Finance 
+Specialist 
+1/23/2016 
+Zimbabwe 
+Doris Youngs 
+Country Programs Manager 
+Mary Lyn Field-Nguer 
+TO1 Director 
+Senior Contracts Specialist 
+Security Specialist
+Operations Team Lead 
+Operations Specialist 
+3/29/2016 
+Lesotho 
+Brian Agbiriogu 
+M&E Manager 
+Operations Team Lead 
+3/29/2016 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 18 
+
+During these visits we meet with the mission and stakeholders to establish relations and gather 
+information needed for a seamless and efficient transition of program activities to GHSC-PSM. 
+The team leader oversees planning consultations to build relationships; understand 
+programmatic requirements, current activities, and challenges; and identify technical priorities 
+during the transition. The operations team lead manages operational launch of project, including 
+project registration, management and financial systems, project policies and procedures, and 
+recruitment, and oversees the operations and/or recruitment specialist(s). The contracts 
+specialist reviews subcontracts, leases, and vendor agreements to understand subcontracting 
+needs and contractual obligations for warehousing, local procurement, staffing, and general 
+contractors in countries where USAID has supported an augmented or parallel supply chain. 
+The security specialist conducts an initial country security assessment and benchmarking, 
+develops a security platform, and recommends ways to ensure staff and commodity security in 
+new or higher risk countries. 
+After the scoping visit, the regional managers work closely with mission Activity Managers in 
+each country and USAID country backstops in Washington to develop budgets and interim 
+work plans through the end of FY 2016. These address the requirements of transitioning 
+technical assistance and systems strengthening activities, parallel supply chain activities (if any), 
+and operational start up. They also provide support for assessments and full work planning for 
+FY 2017, which the teams will conduct in June and July 2016. Based on findings from scoping 
+visits, the TWG9 determined that certain countries may require a startup budget to advance 
+transition activities while interim work planning and budgeting take place, and is planning for this. 
+Initiation of GHSC-PSM support in new countries. In addition to transitioning technical assistance 
+and other support from SCMS or DELIVER to GHSC-PSM, some missions that had not received 
+support previously plan to buy in to the project. The first of such countries was Lesotho, which 
+we visited late in the quarter. 
+Submission and approval of the GHSC-PSM Mozambique Transition Plan. On December 29, 2015, 
+USAID/Mozambique was the first mission to express interest in a buy-in. The initial scoping 
+trip started within two weeks of the project’s official kickoff. The operations team made 
+progress in transitioning warehousing, IT systems, and commodity procurement, and initiated 
+registration, recruitment, and identification of office space. GHSC-PSM submitted a transition 
+work plan to USAID, which was approved by the end of the quarter. 
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 6 lists the planned activities and milestones scheduled in the transition plan for this 
+quarter, summarizes progress, and indicates the status of planned activities. 
+EXHIBIT 6. COUNTRY PROGRAMS PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Open 17 field offices (staff, leases, inventory) by July 1, 2016. Our Country 
+Programs Team held initial conversations with the USAID backstops and missions for 
+20 countries interested in a GHSC-PSM buy in. We visited Burma, Ghana, Lesotho, 
+Madagascar, Malawi, Mozambique, and Zimbabwe in Quarter 1, and are in the 
+process of developing detailed interim work plans for each of these countries for FY 
+2016. We also are planning visits to the remaining 10+ countries early in Quarter 2. 
+(See challenge #1 below.) 
+On target 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 19 
+
+PLAN AND PROGRESS 
+STATUS 
+Transfer in-country technical assistance from SCMS and DELIVER to GHSC-
+PSM. Technical scoping is an important focus of planning visits. GHSC-PSM scoping 
+teams solicit inputs from USAID missions, government officials, national supply chain 
+staff, and other health commodity supply chain stakeholders. These stakeholders 
+indicate the technical assistance activities they would like to see continued or phased 
+out, and what new systems strengthening activities they would like GHSC-PSM to 
+initiate. The country team then incorporates these priorities in the detailed interim work 
+plan for that country. Many of the immediate technical assistance needs that have 
+been identified to date include support to transitioning logistics management 
+information systems (LMIS), warehousing assessments to inform longer-term 
+warehousing strategy, or stop-gap support for annual forecasting and quantification. 
+(See challenge #2 below.) 
+On target 
+3. 
+CHALLENGES 
+Challenge #1 – Scoping visits. The major challenge this quarter was the need to initiate the 
+transition process simultaneously from the incumbents in multiple countries. The risk of not 
+meeting this challenge is that technical assistance and supply chain support in these countries 
+would be disrupted, in turn disrupting health programs. To address this, we worked closely with 
+USAID country backstops to set up calls and meetings with the green-lit missions to understand 
+the transition priorities and challenges for each country. We then worked through the Country 
+Programs Technical Assistance TWG to coordinate dates with each mission for the first scoping 
+visit. To be able to conduct the visits concurrently and to ensure that the needed expertise was 
+included in each transition team, GHSC-PSM worked closely with Chemonics’ Supply Chain 
+Solutions Division to engage experts from all of Chemonics’ business units and support divisions. 
+We were able to organize and field teams by the end of March to seven countries. We are 
+using the same approach to field teams to an additional 10+ countries early in Quarter 2. 
+Challenge #2 – Gap between scoping visit and approved budget. The second major challenge is to 
+develop interim work plans and budgets and get them approved in time to have staff and 
+contracts in place when the incumbents’ offices close. We learned through our first experience 
+(Mozambique) that it is critical to have additional funding to cover activities between the scoping 
+trip and approval of the interim work plan and budget. Certain missions are not comfortable 
+programming startup costs in the initial scoping trip. To address this funding gap, the Country 
+Programs Team worked with USAID to conceive a startup budget to support activities through 
+June 2016 following the scoping trip. The Country Programs Team and Supply Chain Solutions 
+Division devoted considerable effort to developing a well-conceived work plan and accounting 
+for activities in a new activity-based budget template, mirroring the technical criteria required by 
+the BI&A contractor, to facilitate planning and USAID approval. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 20 
+
+F. GLOBAL COLLABORATION 
+1. 
+HIGHLIGHTS 
+The procurement and country office transitions must be completed before the incumbent 
+contracts end on September 26, 2016 (for SCMS, DELIVER TO7, and DELIVER TO4 technical 
+assistance) and in February 2017 (for DELIVER TO5 procurement). Thus, for the first quarter of 
+the project, with USAID’s concurrence, GHSC-PSM prioritized procurement and country 
+technical assistance activities. 
+Global Strategic Engagement 
+GHSC-PSM received lists of global groups with whom SCMS and DELIVER work. With USAID, 
+we are deciding on GHSC-PSM’s role with these and other groups. 
+GHSC-PSM participated in the following meetings: 
+ 
+Inter-agency Supply Chain Group (ISG). GHSC-PSM’s project director presented an overview 
+of the project to this key group that leads coordination to ensure a sustainable supply of 
+quality essential medicines. This was one of the first presentations about the project to an 
+external audience. 
+ 
+International Association of Public Health Logisticians (IAPHL). GHSC-PSM participated in a 
+stakeholder meeting to discuss and identify options for the future structure of this group. 
+ 
+People that Deliver (PtD). In February, GHSC-PSM and PtD staff discussed ways our 
+organizations can work together. We agreed to continue these discussions once the GHSC-
+PSM Global Collaboration team is fully staffed. 
+ 
+Reproductive Health Global Advisory Traceability Group (RHGTAG). GHSC-PSM started 
+participating in the RHGTAG monthly calls. We are working with USAID colleagues to 
+develop draft contract language and an action plan to implement GS1 product identification 
+standards on all health commodities procured by GHSC-PSM. 
+ 
+Reproductive Health Supplies Coalition (RHSC). Project staff attended RHSC’s Market 
+Development Approaches Working Group (MDAWG) to introduce the project to the 
+group and to understand better the coalition’s goals and activities. 
+ 
+WHO/UNAIDS Global Forecasting. Following plenary discussions and presentations at the 
+meeting, the GHSC-PSM team met with the major pharmaceutical and diagnostic suppliers 
+in individual meetings, with USAID and SCMS representatives present. 
+Market Dynamics 
+GHSC-PSM was working with USAID to confirm the structure and scope of market dynamics 
+activities and to prioritize the key questions that we should investigate for each TO and product 
+category. These include: 
+ 
+Identifying high-impact pipeline products to allow forward planning for introduction and 
+scale up 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 21 
+
+ 
+Analyzing production economics to help set supplier incentives and steer markets toward 
+sustainable margins 
+ 
+Identifying and alleviating capacity constraints for global supply 
+ 
+Identifying and mitigating supply risks 
+The Market Dynamics team supported the commodity councils’ kickoff by presenting 
+preliminary market health assessments for each product category. These preliminary 
+assessments synthesized initial market research across global demand, supply, pricing, and 
+product pipelines. 
+Knowledge Management and Communications 
+GHSC-PSM worked to finalize the project’s Branding Implementation Plan and Marking Plan. 
+Once USAID has signed off, we will proceed with some key project materials, including 
+templates for the newsletter, PowerPoint® presentations, business cards, and reports. 
+GHSC-PSM conducted formative research on USAID and GHSC-PSM project leaderships’ 
+priorities for project website audiences, content, and functionality. We also developed a high-
+level inventory of legacy materials on the SCMS and DELIVER websites. 
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+No activities or milestones for the global collaboration objective were planned for the initial 
+quarter. Nonetheless, as shown in Section F.1 above, significant progress was made. 
+3. 
+CHALLENGES 
+Challenge #1 - Staffing. Gaps on the Global Collaboration team have delayed some activities. 
+Most, if not all, gaps will be filled in Quarter 2. 
+Challenge #2 - Website. In Quarter 2, the project will work with the CORs to submit an 
+application to USAID’s Website Governance Board, which must formally agree to a project 
+website. The board also will decide whether the project must use the USAID.gov URL. Any 
+delay in approval ultimately will delay development of the project website. In the meantime, we 
+are preparing to release an RFP to web development firms as soon as USAID sign off is 
+received. We also are updating information on GHSC-PSM on Chemonics.com and adding links 
+to high priority information while we build the permanent website. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 22 
+
+G. PROJECT MANAGEMENT
+1. 
+HIGHLIGHTS 
+This section highlights cross-cutting project management and monitoring and evaluation 
+activities. 
+Project Management 
+GHSC-PSM and USAID developed a collaborative partnership in the first quarter of the project. 
+All of the major milestones for this phase of startup, including the on-time submission of all 
+GHSC-PSM contract deliverables to USAID, were met. 
+Project leadership completed the following activities in Quarter 1: 
+ 
+Planned and completed the project startup and the collaboration conferences 
+ 
+Proposed a transition framework agreement 
+ 
+Provided detailed transition planning 
+ 
+Launched the TWGs, including for project management functions, namely senior 
+management/operations (TWG1) and finance (TWG2) 
+ 
+Hired and on-boarded 60 percent of the billable team positions (106 out of 176 staff 
+members) 
+ 
+Developed financial systems to track TO funding flows 
+ 
+Defined and began implementing modifications to Chemonics’ financial systems to meet 
+GHSC-PSM-wide information specifications for budgeting, tracking, and reporting project 
+financials 
+Monitoring and Evaluation 
+The M&E team completed the following activities in Quarter 1: 
+ 
+Launched the M&E TWG (TWG3) 
+ 
+Collaborated with the USAID M&E points of contact to develop the M&E plan, discuss 
+software tools for data storage and reporting, and determine the schedule for reporting 
+results for each objective 
+ 
+Developed KPIs and submitted the draft project M&E plan 
+ 
+Shared KPI reporting requirements with the MIS team 
+ 
+Supported country startup recruitment, and developed an in-country M&E plan template 
+2. 
+PROGRESS AGAINST THE TRANSITION PLAN 
+Exhibit 7 lists the project management and M&E activities and milestones scheduled in the 
+transition plan for this quarter, summarizes progress, and indicates the status of planned 
+activities. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 23 
+
+EXHIBIT 7. PROJECT MANAGEMENT AND M&E PLANS, PROGRESS, AND STATUS 
+PLAN AND PROGRESS 
+STATUS 
+Complete startup conference. GHSC-PSM hosted a startup conference on January 
+7 – 8 where project leadership and USAID discussed the general transition approach, 
+launched the TWGs, and discuss data and documentation requirements for a smooth 
+transition. 
+Complete 
+Propose transition framework agreement. At a startup conference in early January, 
+GHSC-PSM presented the transition framework. This framework includes formation of 
+TWGs; transition planning with USAID, SCMS and DELIVER; and a detailed transition 
+plan. 
+Complete 
+Initiate development of TWG plans. GHSC-PSM launched all 10 TWGs at the 
+startup conference. TWGs started meeting regularly with USAID counterparts and 
+SCMS or DELIVER counterparts (where relevant). The TWGs developed detailed 
+transition plans and are actively managing transition activities. 
+Complete 
+Receive requested data from USAID, the Business Intelligence and Analytics 
+contractor, SCMS, and DELIVER. GHSC-PSM submitted a list of datasets, 
+documents, and other materials from USAID, SCMS, and DELIVER necessary to plan 
+and implement a smooth transition. We received the majority of requested materials 
+and consider this milestone largely complete. We continue to follow up with USAID, 
+SCMS, and DELIVER periodically about remaining items and new requests. 
+Complete 
+Complete the collaboration conference. USAID convened a meeting with GHSC-
+PSM, SCMS, and DELIVER. United behind USAID’s vision for a smooth transition in 
+global supply chain, technical assistance, and other activities, conference participants 
+began detailed discussions on transition management, global supply chain, technical 
+assistance, communication protocols, and the substantive transmission of knowledge 
+and data. 
+Complete 
+Determine global supply chain, in-country, and cross-cutting indicators. The 
+M&E team developed a comprehensive set of KPIs for USAID’s consideration. 
+On track 
+Submit Performance Management Plans. The M&E team submitted the 
+Performance Management Plans (PMPs) (since renamed M&E plans) for each of the 
+TOs. 
+On track 
+3. 
+CHALLENGES 
+Challenge #1 – Staffing. The project’s original transition plan assumed a full transition of global 
+supply chain and country offices within nine months of project start. Although awarded on April 
+15, 2015, GHSC-PSM contract implementation was delayed significantly due to two protests. 
+USAID designated January 11, 2016, as the official project start for the purposes of deliverable 
+and activity due dates, and Chemonics immediately started implementing project activities. 
+Given the extended protest, however, the originally planned nine month transition period was 
+reduced for a number of key milestones, including the following: 
+ 
+Transition of inventory in RDCs from SCMS and DELIVER to GHSC-PSM 
+ 
+Full manual capability to assume routine commodity orders 
+ 
+Transition of country offices from SCMS and DELIVER to GHSC-PSM by July 2016 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 24 
+
+Many of the originally-proposed staff were no longer available in January 2016. The risk of not 
+making a fast start with many interrelated activities was that the project would not be able to 
+transition procurement, supply chain, and systems strengthening activities from the incumbents 
+in time. Our solutions were to prioritize filling leadership positions (with many candidates 
+recruited and waiting for hiring approval), have staff fill multiple roles until more colleagues were 
+brought on board, and tap resources from Chemonics’ Supply Chain Solutions and other 
+divisions (particularly for the country startup teams). These solutions have enabled GHSC-PSM 
+to meet the key milestones and conduct country scoping visits in order to meet the compressed 
+transition timeframe. 
+Challenge # 2 – Managing a difficult transition. Transitioning work from an incumbent to a new 
+contractor always presents the risk that some critical information will not be conveyed, that 
+processes involving outside parties will be interrupted, that staff will abandon the incumbent to 
+join the new team while the incumbent needs to manage close out activities, and that the 
+incumbent will not be cooperative. These risks were multiplied for GHSC-PSM because two 
+existing contracts were merging into one new contract. USAID’s leadership in establishing 
+expectations for a smooth transition and setting a respectful and cooperative tone was critical. 
+Our development of TWGs that detailed data and information requirements and that engaged 
+regularly with SCMS and DELIVER staff led to systematic information sharing. We focused early 
+on contacting existing suppliers and on communicating with USAID backstops and missions to 
+plan the transition of country programs, in some cases conducting country scoping visits with 
+SCMS or DELIVER staff. We negotiated a clear protocol with the SCMS and DELIVER 
+contractors addressing the recruitment and hiring of incumbent project staff, and have been 
+judicious and respectful about the timing of transitioning staff from SCMS or DELIVER to GHSC-
+PSM. With USAID’s support and with open and respectful communication, we have developed 
+productive relations with the SCMS and DELIVER teams that is greatly assisting transition. 
+GHSC-PSM QUARTERLY REPORT YEAR 1 QUARTER 1 | 25 
