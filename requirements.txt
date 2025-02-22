@@ -4,3 +4,4 @@ fitz
 spacy
 transformers
 torch
+pymupdf
