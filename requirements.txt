@@ -1,6 +1,28 @@
-pymupdf
-spacy
+# Core dependencies
 streamlit
-pandas
-nltk
 matplotlib
+pandas
+numpy
+scipy
+
+# NLP libraries
+spacy
+nltk
+pymupdf 
+wordcloud 
+
+# Machine Learning & Transformers 
+scikit-learn
+transformers
+torch
+tensorflow
+
+# Visualization
+seaborn
+plotly
+
+# Other utilities
+requests
+beautifulsoup4  
+PyYAML
+json5
