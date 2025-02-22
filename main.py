@@ -1,8 +1,9 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-import pymupdf as fitz
+import subprocess
 import spacy
+import pymupdf  # PyMuPDF
 from collections import Counter
 from transformers import pipeline
 
@@ -21,19 +22,23 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load spaCy model
+# Load spaCy model, install if missing
 MODEL_NAME = "en_core_web_sm"
+
 try:
     nlp = spacy.load(MODEL_NAME)
-except OSError as e:
-    raise RuntimeError(f"spaCy model '{MODEL_NAME}' not found. Please install it before running the API. Error: {e}")
+except OSError:
+    print(f"⚠️ Model '{MODEL_NAME}' not found. Downloading...")
+    subprocess.run(["python", "-m", "spacy", "download", MODEL_NAME], check=True)
+    nlp = spacy.load(MODEL_NAME)  # Reload after installation
+    print(f"✅ Model '{MODEL_NAME}' installed successfully!")
 
-# Load sentiment analysis pipeline with an explicit model to avoid warnings
+# Load sentiment analysis pipeline with a specified model
 sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
 def extract_text_from_pdf(file_stream):
     """Extract text from a PDF file stream using PyMuPDF."""
-    doc = fitz.open(stream=file_stream.read(), filetype="pdf")
+    doc = pymupdf.open(stream=file_stream.read(), filetype="pdf")
     text = "\n".join([page.get_text("text") for page in doc])
     return text
 
