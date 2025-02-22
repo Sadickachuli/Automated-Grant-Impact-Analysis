@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Specify the spaCy model name (this should be installed via requirements.txt)
+# Specify the spaCy model name (it will be installed via requirements.txt)
 MODEL_NAME = "en_core_web_sm"
 
 try:
@@ -19,30 +19,30 @@ except OSError as e:
 # Load the Hugging Face sentiment analysis pipeline
 sentiment_pipeline = pipeline("sentiment-analysis")
 
-# Function to extract text from PDF
+# Function to extract text from a PDF file
 def extract_text_from_pdf(uploaded_file):
     with fitz.open(stream=uploaded_file.read(), filetype="pdf") as doc:
         text = "\n".join([page.get_text("text") for page in doc])
     return text
 
-# Function to preprocess text
+# Function to preprocess text (lowercase, lemmatize, and filter tokens)
 def preprocess_text(text):
     doc = nlp(text.lower())
     tokens = [token.lemma_ for token in doc if token.is_alpha]
     return " ".join(tokens)
 
-# Function to extract key themes
+# Function to extract key themes (keywords) from text
 def extract_keywords(text, top_n=10):
     doc = nlp(text)
     keywords = [token.text for token in doc if token.pos_ in ["NOUN", "PROPN"]]
     return Counter(keywords).most_common(top_n)
 
-# Function to extract named entities
+# Function to extract named entities from text
 def extract_named_entities(text):
     doc = nlp(text)
     return [(ent.text, ent.label_) for ent in doc.ents]
 
-# Function to generate a word cloud
+# Function to generate a word cloud from keywords
 def generate_wordcloud(keywords):
     wordcloud = WordCloud(width=800, height=400, background_color="white").generate_from_frequencies(dict(keywords))
     plt.figure(figsize=(10, 5))
@@ -50,7 +50,7 @@ def generate_wordcloud(keywords):
     plt.axis("off")
     st.pyplot(plt)
 
-# Function to generate a bar chart of keywords
+# Function to generate a bar chart of keyword frequencies
 def plot_keyword_bar_chart(keywords):
     if keywords:
         words, counts = zip(*keywords)

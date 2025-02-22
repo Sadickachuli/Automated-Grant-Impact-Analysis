@@ -12,6 +12,9 @@ pymupdf==1.21.1
 wordcloud==1.8.2
 nltk==3.7
 
+# Install spaCy English model
+en-core-web-sm==3.6.0
+
 # Machine Learning & Transformers
 scikit-learn==1.2.2
 transformers==4.30.0
@@ -27,6 +30,3 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 PyYAML==6.0
 json5==0.9.6
-
-# Install spaCy English model (ensures en_core_web_sm is available)
-en-core-web-sm==3.6.0
