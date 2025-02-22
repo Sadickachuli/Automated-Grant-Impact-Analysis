@@ -12,6 +12,9 @@ pymupdf
 wordcloud
 nltk
 
+# Install spaCy English model directly
+en-core-web-sm==3.6.0
+
 # Machine Learning & Transformers
 scikit-learn
 transformers
@@ -27,6 +30,3 @@ requests
 beautifulsoup4  
 PyYAML
 json5
-
-# Install spaCy English model
-spacy[en_core_web_sm]

@@ -7,15 +7,15 @@ from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Load the spaCy NLP model (Ensure it's installed via requirements.txt)
+# Load the spaCy NLP model (the model is installed via requirements.txt)
 MODEL_NAME = "en_core_web_sm"
-
 try:
     nlp = spacy.load(MODEL_NAME)
 except OSError:
-    st.error("spaCy model not found. Please ensure `spacy[en_core_web_sm]` is installed in `requirements.txt`.")
+    st.error("spaCy model not found. Please ensure 'en-core-web-sm==3.6.0' is installed in requirements.txt.")
+    st.stop()
 
-# Load sentiment analysis pipeline
+# Load sentiment analysis pipeline from Hugging Face
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Function to extract text from PDF
@@ -41,7 +41,7 @@ def extract_named_entities(text):
     doc = nlp(text)
     return [(ent.text, ent.label_) for ent in doc.ents]
 
-# Function to generate word cloud
+# Function to generate a word cloud
 def generate_wordcloud(keywords):
     wordcloud = WordCloud(width=800, height=400, background_color="white").generate_from_frequencies(dict(keywords))
     plt.figure(figsize=(10, 5))
@@ -49,7 +49,7 @@ def generate_wordcloud(keywords):
     plt.axis("off")
     st.pyplot(plt)
 
-# Function to generate bar chart
+# Function to generate a bar chart of keywords
 def plot_keyword_bar_chart(keywords):
     if keywords:
         words, counts = zip(*keywords)
@@ -78,8 +78,8 @@ if uploaded_file is not None:
 
     st.subheader("Key Themes")
     st.write(key_themes)
-    plot_keyword_bar_chart(key_themes)  # Add bar chart
-    generate_wordcloud(key_themes)  # Add word cloud
+    plot_keyword_bar_chart(key_themes)
+    generate_wordcloud(key_themes)
 
     st.subheader("Impact Areas")
     st.write(impact_areas[:10])
