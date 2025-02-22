@@ -2,23 +2,24 @@ import streamlit as st
 import fitz  # PyMuPDF
 import spacy
 import os
-import subprocess
 import matplotlib.pyplot as plt
 import seaborn as sns
 from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Ensure the NLP model is available
-MODEL_NAME = "en_core_web_sm"
+# Ensure spaCy model is installed and accessible
+os.environ["SPACY_MODEL_DIR"] = "/home/adminuser/venv/lib/python3.12/site-packages/spacy/data"
 
+# Load NLP model
+MODEL_NAME = "en_core_web_sm"
 try:
     nlp = spacy.load(MODEL_NAME)
 except OSError:
-    st.warning("Downloading spaCy model... (This happens only once)")
-    subprocess.run(["python", "-m", "spacy", "download", MODEL_NAME])
-    nlp = spacy.load(MODEL_NAME)
+    st.error("Error loading spaCy model. Please ensure it is installed.")
+    st.stop()
 
+# Load Hugging Face sentiment pipeline
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Function to extract text from PDF

@@ -7,14 +7,15 @@ scipy
 
 # NLP libraries
 spacy
-nltk
-pymupdf 
-wordcloud 
-
 spacy-lookups-data
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz
+pymupdf
+wordcloud
+nltk
 
-# Machine Learning & Transformers 
+# Install spaCy model manually (fixes deployment issues)
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz
+
+# Machine Learning & Transformers
 scikit-learn
 transformers
 torch
