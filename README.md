@@ -2,6 +2,9 @@
 
 This project consists of a FastAPI backend for analyzing grant reports and a React frontend (with Vite and TypeScript) for the user interface.
 
+![grantAI](https://github.com/user-attachments/assets/764c9988-086d-47da-9047-13955c2a7203)
+![22 02 2025_16 09 50_REC](https://github.com/user-attachments/assets/ba5830fb-c854-4d22-8aea-6f0c0cf4db5a)
+
 ## 🚀 Features
 - Upload a PDF grant report for analysis
 - Extract key themes and impact areas using spaCy
