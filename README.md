@@ -67,6 +67,6 @@ http://localhost:5173
 👤 Author
 [Sadick Mustapha]
 
-GitHub:  github.com/Sadickachuli
+GitHub: [ github.com/Sadickachuli](https://github.com/Sadickachuli)
 
 connect with me to work together
