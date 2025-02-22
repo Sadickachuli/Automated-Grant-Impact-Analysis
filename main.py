@@ -1,7 +1,7 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-import fitz  # PyMuPDF
+import pymupdf as fitz
 import spacy
 from collections import Counter
 from transformers import pipeline
