@@ -1,22 +1,26 @@
 import streamlit as st
-import fitz
+import fitz  # PyMuPDF
 import spacy
+import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Load NLP model
-nlp = spacy.load("en_core_web_sm")
+# Ensure the NLP model is available
+MODEL_NAME = "en_core_web_sm"
+
+if not spacy.util.is_package(MODEL_NAME):
+    os.system(f"python -m spacy download {MODEL_NAME}")
+
+nlp = spacy.load(MODEL_NAME)
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Function to extract text from PDF
-def extract_text_from_pdf(pdf_path):
-    doc = fitz.open(pdf_path)
-    text = ""
-    for page in doc:
-        text += page.get_text("text") + "\n"
+def extract_text_from_pdf(uploaded_file):
+    with fitz.open(stream=uploaded_file.read(), filetype="pdf") as doc:
+        text = "\n".join([page.get_text("text") for page in doc])
     return text
 
 # Function to preprocess text
@@ -46,13 +50,16 @@ def generate_wordcloud(keywords):
 
 # Function to generate bar chart
 def plot_keyword_bar_chart(keywords):
-    words, counts = zip(*keywords)
-    plt.figure(figsize=(10, 5))
-    sns.barplot(x=list(counts), y=list(words), palette="Blues_r")
-    plt.xlabel("Frequency")
-    plt.ylabel("Keywords")
-    plt.title("Top Keywords in the Grant Report")
-    st.pyplot(plt)
+    if keywords:
+        words, counts = zip(*keywords)
+        plt.figure(figsize=(10, 5))
+        sns.barplot(x=list(counts), y=list(words), palette="Blues_r")
+        plt.xlabel("Frequency")
+        plt.ylabel("Keywords")
+        plt.title("Top Keywords in the Grant Report")
+        st.pyplot(plt)
+    else:
+        st.write("No keywords found.")
 
 # Streamlit UI
 st.title("Automated Grant & Impact Analysis")
@@ -61,10 +68,7 @@ st.write("Upload a grant report to analyze key themes and impact areas.")
 uploaded_file = st.file_uploader("Upload PDF", type="pdf")
 
 if uploaded_file is not None:
-    with open("uploaded.pdf", "wb") as f:
-        f.write(uploaded_file.getbuffer())
-
-    pdf_text = extract_text_from_pdf("uploaded.pdf")
+    pdf_text = extract_text_from_pdf(uploaded_file)
     cleaned_text = preprocess_text(pdf_text)
     
     key_themes = extract_keywords(cleaned_text)
