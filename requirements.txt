@@ -1,32 +1,32 @@
 # Core dependencies
-streamlit
-matplotlib
-pandas
-numpy
-scipy
+streamlit==1.24.0
+matplotlib==3.7.2
+pandas==1.5.3
+numpy==1.23.5
+scipy==1.9.3
 
 # NLP libraries
-spacy
-spacy-lookups-data
-pymupdf
-wordcloud
-nltk
-
-# Install spaCy English model directly
-en-core-web-sm==3.6.0
+spacy==3.6.0
+spacy-lookups-data==3.0.9
+pymupdf==1.21.1
+wordcloud==1.8.2
+nltk==3.7
 
 # Machine Learning & Transformers
-scikit-learn
-transformers
-torch
-tensorflow
+scikit-learn==1.2.2
+transformers==4.30.0
+torch==2.0.1
+tensorflow==2.12.0
 
 # Visualization
-seaborn
-plotly
+seaborn==0.12.2
+plotly==5.15.0
 
 # Other utilities
-requests
-beautifulsoup4  
-PyYAML
-json5
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyYAML==6.0
+json5==0.9.6
+
+# Install spaCy English model (ensures en_core_web_sm is available)
+en-core-web-sm==3.6.0

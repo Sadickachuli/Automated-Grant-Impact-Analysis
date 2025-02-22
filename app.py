@@ -7,15 +7,16 @@ from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Load the spaCy NLP model (the model is installed via requirements.txt)
+# Specify the spaCy model name (this should be installed via requirements.txt)
 MODEL_NAME = "en_core_web_sm"
+
 try:
     nlp = spacy.load(MODEL_NAME)
-except OSError:
-    st.error("spaCy model not found. Please ensure 'en-core-web-sm==3.6.0' is installed in requirements.txt.")
+except OSError as e:
+    st.error(f"spaCy model '{MODEL_NAME}' not found. Please ensure it is installed via requirements.txt. Error: {e}")
     st.stop()
 
-# Load sentiment analysis pipeline from Hugging Face
+# Load the Hugging Face sentiment analysis pipeline
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Function to extract text from PDF
