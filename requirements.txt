@@ -12,7 +12,7 @@ pymupdf==1.21.1
 wordcloud==1.8.2
 nltk==3.7
 
-# Install spaCy English model
+# Install spaCy English model directly
 en-core-web-sm==3.6.0
 
 # Machine Learning & Transformers

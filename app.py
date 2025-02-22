@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 from collections import Counter
 from transformers import pipeline
 
-# Specify the spaCy model name (it will be installed via requirements.txt)
+# Specify the spaCy model name (installed via requirements.txt)
 MODEL_NAME = "en_core_web_sm"
 
 try:
@@ -25,7 +25,7 @@ def extract_text_from_pdf(uploaded_file):
         text = "\n".join([page.get_text("text") for page in doc])
     return text
 
-# Function to preprocess text (lowercase, lemmatize, and filter tokens)
+# Function to preprocess text (lowercase, lemmatize, filter tokens)
 def preprocess_text(text):
     doc = nlp(text.lower())
     tokens = [token.lemma_ for token in doc if token.is_alpha]
