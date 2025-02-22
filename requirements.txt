@@ -27,3 +27,6 @@ requests
 beautifulsoup4  
 PyYAML
 json5
+
+# Install spaCy English model
+spacy[en_core_web_sm]
