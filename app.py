@@ -2,6 +2,7 @@ import streamlit as st
 import fitz  # PyMuPDF
 import spacy
 import os
+import subprocess
 import matplotlib.pyplot as plt
 import seaborn as sns
 from wordcloud import WordCloud
@@ -11,10 +12,13 @@ from transformers import pipeline
 # Ensure the NLP model is available
 MODEL_NAME = "en_core_web_sm"
 
-if not spacy.util.is_package(MODEL_NAME):
-    os.system(f"python -m spacy download {MODEL_NAME}")
+try:
+    nlp = spacy.load(MODEL_NAME)
+except OSError:
+    st.warning("Downloading spaCy model... (This happens only once)")
+    subprocess.run(["python", "-m", "spacy", "download", MODEL_NAME])
+    nlp = spacy.load(MODEL_NAME)
 
-nlp = spacy.load(MODEL_NAME)
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Function to extract text from PDF
