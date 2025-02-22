@@ -1,11 +1,12 @@
+import os
 from fastapi import FastAPI, File, UploadFile, HTTPException
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import subprocess
 import spacy
 import pymupdf  # PyMuPDF
 from collections import Counter
 from transformers import pipeline
+import uvicorn
 
 app = FastAPI(
     title="Grant Report Analysis API",
@@ -13,7 +14,7 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# Optionally allow CORS (if your frontend is hosted on a different domain)
+# Allow CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -33,7 +34,7 @@ except OSError:
     nlp = spacy.load(MODEL_NAME)  # Reload after installation
     print(f"✅ Model '{MODEL_NAME}' installed successfully!")
 
-# Load sentiment analysis pipeline with a specified model
+# Load sentiment analysis pipeline
 sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
 def extract_text_from_pdf(file_stream):
@@ -81,3 +82,7 @@ async def analyze(file: UploadFile = File(...)):
         "impact_areas": impact_areas,
         "sentiment": sentiment_result,
     }
+
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Read PORT from environment, default to 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)
