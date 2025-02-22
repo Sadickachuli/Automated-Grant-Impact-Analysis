@@ -21,10 +21,8 @@ WORKDIR /app
 # Copy requirements.txt into the container.
 COPY requirements.txt /app/requirements.txt
 
-# Upgrade pip, setuptools, and wheel to versions compatible with Python 3.12,
-# then install the Python dependencies.
-RUN pip install --upgrade pip==25.0.1 setuptools==68.1.2 wheel==0.41.2 && \
-    pip install -r requirements.txt
+# Upgrade pip, setuptools, and wheel to the latest versions, then install Python dependencies.
+RUN pip install --upgrade pip setuptools wheel && pip install -r requirements.txt
 
 # Copy the rest of the application code into the container.
 COPY . /app
