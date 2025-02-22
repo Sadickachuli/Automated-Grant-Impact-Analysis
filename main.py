@@ -1,20 +1,17 @@
 import os
+import subprocess
+import pymupdf  # PyMuPDF for PDF extraction
+from collections import Counter
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-import subprocess
-import spacy
-import pymupdf  # PyMuPDF
-from collections import Counter
 from transformers import pipeline
+import spacy
 import uvicorn
 
-app = FastAPI(
-    title="Grant Report Analysis API",
-    description="API to extract key themes, impact areas, and sentiment from a PDF grant report.",
-    version="1.0.0",
-)
+# Initialize FastAPI App
+app = FastAPI()
 
-# Allow CORS
+# Allow CORS (so frontend can access API)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -23,40 +20,48 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load spaCy model, install if missing
+# Load spaCy Model - Install if Missing
 MODEL_NAME = "en_core_web_sm"
 
 try:
-    nlp = spacy.load(MODEL_NAME)
+    nlp = spacy.load(MODEL_NAME, disable=["parser", "tagger"])  # Disable unnecessary parts to save memory
 except OSError:
-    print(f"⚠️ Model '{MODEL_NAME}' not found. Downloading...")
+    print(f"⚠️ Model '{MODEL_NAME}' not found. Installing...")
     subprocess.run(["python", "-m", "spacy", "download", MODEL_NAME], check=True)
-    nlp = spacy.load(MODEL_NAME)  # Reload after installation
-    print(f"✅ Model '{MODEL_NAME}' installed successfully!")
+    nlp = spacy.load(MODEL_NAME, disable=["parser", "tagger"])  # Reload after install
+    print(f"✅ Model '{MODEL_NAME}' installed and loaded!")
 
-# Load sentiment analysis pipeline
-sentiment_pipeline = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
+# Load Sentiment Analysis Model (Using a Smaller Model)
+sentiment_pipeline = pipeline("sentiment-analysis", model="nlptown/bert-base-multilingual-uncased-sentiment")
 
-def extract_text_from_pdf(file_stream):
-    """Extract text from a PDF file stream using PyMuPDF."""
+def extract_text_from_pdf(file_stream, max_pages=5):
+    """
+    Extracts text from a PDF but limits to 'max_pages' to reduce memory usage.
+    """
     doc = pymupdf.open(stream=file_stream.read(), filetype="pdf")
-    text = "\n".join([page.get_text("text") for page in doc])
+    text = "\n".join([doc[page].get_text("text") for page in range(min(max_pages, len(doc)))])
     return text
 
 def preprocess_text(text: str) -> str:
-    """Preprocess text: lowercasing and lemmatization, keeping only alphabetic tokens."""
+    """
+    Lowercases, lemmatizes, and removes non-alphabetic words to clean text.
+    """
     doc = nlp(text.lower())
     tokens = [token.lemma_ for token in doc if token.is_alpha]
     return " ".join(tokens)
 
 def extract_keywords(text: str, top_n: int = 10):
-    """Extract key themes (keywords) from text."""
+    """
+    Extracts key themes (keywords) using NLP.
+    """
     doc = nlp(text)
     keywords = [token.text for token in doc if token.pos_ in ["NOUN", "PROPN"]]
     return Counter(keywords).most_common(top_n)
 
 def extract_named_entities(text: str):
-    """Extract named entities (impact areas) from text."""
+    """
+    Extracts named entities (impact areas) using NLP.
+    """
     doc = nlp(text)
     return [(ent.text, ent.label_) for ent in doc.ents]
 
@@ -66,7 +71,6 @@ async def analyze(file: UploadFile = File(...)):
         raise HTTPException(status_code=400, detail="File must be a PDF.")
 
     try:
-        # Extract and preprocess text from the PDF
         text = extract_text_from_pdf(file.file)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing PDF: {e}")
@@ -74,9 +78,8 @@ async def analyze(file: UploadFile = File(...)):
     cleaned_text = preprocess_text(text)
     key_themes = extract_keywords(cleaned_text)
     impact_areas = extract_named_entities(cleaned_text)
-    # Limit to first 512 characters for sentiment analysis to avoid input size issues
-    sentiment_result = sentiment_pipeline(cleaned_text[:512])
-    
+    sentiment_result = sentiment_pipeline(cleaned_text[:512])  # Limit characters to avoid memory issues
+
     return {
         "key_themes": key_themes,
         "impact_areas": impact_areas,
@@ -84,5 +87,5 @@ async def analyze(file: UploadFile = File(...)):
     }
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 8000))  # Read PORT from environment, default to 8000
+    port = int(os.getenv("PORT", 8000))  # Get PORT from environment, default to 8000
     uvicorn.run(app, host="0.0.0.0", port=port)
