@@ -25,7 +25,7 @@ def extract_text_from_pdf(uploaded_file):
         text = "\n".join([page.get_text("text") for page in doc])
     return text
 
-# Function to preprocess text (lowercase, lemmatize, filter tokens)
+# Function to preprocess text
 def preprocess_text(text):
     doc = nlp(text.lower())
     tokens = [token.lemma_ for token in doc if token.is_alpha]
