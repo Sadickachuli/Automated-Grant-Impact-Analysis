@@ -1,4 +1,4 @@
-# Grant Report Analysis App
+# **Grant Report Analysis App**
 
 This project consists of a FastAPI backend for analyzing grant reports and a React frontend (with Vite and TypeScript) for the user interface.
 
