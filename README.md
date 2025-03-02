@@ -29,8 +29,8 @@ This project consists of a FastAPI backend for analyzing grant reports and a Rea
 
 ### 1️⃣ Clone this Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Sadickachuli/Automated-Grant-Impact-Analysis.git
+cd Automated-Grant-Impact-Analysis
 ```
 ## 📌 Backend Setup
 ###2️⃣ Install Python & Virtual Environment
