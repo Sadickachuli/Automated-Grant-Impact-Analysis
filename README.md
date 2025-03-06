@@ -8,7 +8,7 @@ This project consists of FastAPI backend for analyzing grant reports and a React
 - Upload a PDF grant report for analysis
 - Extract key themes and impact areas using spaCy
 - Perform sentiment analysis using a Transformer model
-- View the results in an interactive UI
+- View the results with an interactive UI
 
 ## 🛠️ Tech Stack
 
