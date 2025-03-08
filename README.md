@@ -1,6 +1,6 @@
 # **Grant Report Analysis App**
 
-This project consists of FastAPI backend for analyzing grant reports and a React frontend (with Vite and TypeScript) for the user interface.
+This project consists of a FastAPI backend for analyzing grant reports and a React frontend (with Vite and TypeScript) for the user interface.
 
 ![grantAI](https://github.com/user-attachments/assets/764c9988-086d-47da-9047-13955c2a7203)
 
