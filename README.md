@@ -5,7 +5,7 @@ This project consists of a FastAPI backend for analyzing grant reports and a Rea
 ![grantAI](https://github.com/user-attachments/assets/764c9988-086d-47da-9047-13955c2a7203)
 
 ## 🚀 Features
-- Upload a PDF grant report for analysis
+- Upload a PDF grant report for analysis(pdf should be a report... e.g USAID report pdf)
 - Extract key themes and impact areas using spaCy
 - Perform sentiment analysis using a Transformer model
 - View the results with an interactive UI
