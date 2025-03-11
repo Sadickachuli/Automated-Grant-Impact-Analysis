@@ -76,4 +76,4 @@ http://localhost:5173
 
 GitHub: [ github.com/Sadickachuli](https://github.com/Sadickachuli)
 
-connect with me to work together
+connect with me to work together on this or other projects
