@@ -17,7 +17,7 @@ This project consists of a FastAPI backend for analyzing grant reports and a Rea
 - **spaCy** (for NLP)
 - **Transformers** (for sentiment analysis)
 - **PyMuPDF** (for PDF processing)
-- **Uvicorn** (for running the API)
+- **Uvicorn** (to run the API)
 
 ### Frontend
 - **React** (with Vite)
